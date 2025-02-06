@@ -17,7 +17,6 @@ This is a full-stack address book application built with Node.js, Express, MySQL
 - [Future Enhancements](#future-enhancements)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -196,7 +195,4 @@ Tables include `user`, `contacts`, `addresses`, `phone_numbers`, `emails`, `rela
 3. Make changes and test.
 4. Commit changes.
 5. Push branch and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
