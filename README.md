@@ -73,8 +73,8 @@ This is a full-stack address book application built with Node.js, Express, MySQL
 
 ### 2. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/Swarnadip-Dey/addressbook_combined.git
+cd addressbook_combined
 ```
 
 ### 3. Backend Setup
